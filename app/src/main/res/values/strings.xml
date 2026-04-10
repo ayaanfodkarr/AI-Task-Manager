@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Task Manager</string>
+    <string name="hint_title">Task title *</string>
+    <string name="hint_description">Description (optional)</string>
+    <string name="btn_add">Add Task</string>
+    <string name="btn_analyse">AI Analyse All</string>
+</resources>
